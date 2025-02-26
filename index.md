@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>япровайдер - Ваш надежный провайдер услуг</title>
+    <title>ЯПровайдер - Ваш надежный провайдер услуг</title>
     <style>
         :root {
             --primary-color: #3498db;
@@ -371,7 +371,7 @@
         <nav>
             <div class="logo">
                 <span class="logo-icon">⚡</span>
-                <span>япровайдер</span>
+                <span>ЯПровайдер</span>
             </div>
             <ul class="menu">
                 <li><a href="#features">Услуги</a></li>
@@ -549,7 +549,7 @@
             <div class="footer-contact">
                 <h3>Контактная информация</h3>
                 <p>📱 8 (800) 123-45-67</p>
-                <p>📧 info@yaprovider.ru</p>
+                <p>📧 77@info.ru</p>
                 <p>🏙️ Москва, ул. Цифровая, д. 42</p>
                 <p>⏰ Пн-Вс: 8:00 - 22:00</p>
             </div>
