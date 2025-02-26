@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ImProvider - Быстрый и надежный провайдер</title>
+    <title>ЯПровайдер</title>
     <style>
         * {
             margin: 0;
