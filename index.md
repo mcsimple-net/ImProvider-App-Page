@@ -547,12 +547,12 @@
             <button class="mobile-menu-btn">☰</button>
             <nav>
                 <ul>
-                    <li><a href="#features">Особенности</a></li>
-                    <li><a href="#plans">Тарифы</a></li>
-                    <li><a href="#testimonials">Отзывы</a></li>
-                    <li><a href="#coverage">Покрытие</a></li>
-                    <li><a href="#contact">Контакты</a></li>
-                    <li><a href="#" class="login-btn">Войти</a></li>
+                    <li><a href="#features">1</a></li>
+                    <li><a href="#plans">2</a></li>
+                    <li><a href="#testimonials">3</a></li>
+                    <li><a href="#coverage">4</a></li>
+                    <li><a href="#contact">5</a></li>
+                    <li><a href="#" class="login-btn">6</a></li>
                 </ul>
             </nav>
         </div>
@@ -560,15 +560,15 @@
 
     <section class="hero">
         <div class="container">
-            <h2>Быстрый и надежный интернет в вашем доме</h2>
-            <p>Откройте для себя непревзойденную скорость интернета с лучшим соотношением цены и качества. Наша сеть обеспечивает стабильное соединение, чтобы вы могли работать, учиться и развлекаться без перебоев.</p>
-            <a href="#plans" class="cta-btn">Просмотреть тарифы</a>
+            <h2>Приложение для управления роутерами Mikrotik</h2>
+            <p>123</p>
+            <a href="#plans" class="cta-btn">c</a>
         </div>
     </section>
 
     <section class="features" id="features">
         <div class="container">
-            <h2 class="section-title">Почему выбирают нас</h2>
+            <h2 class="section-title">Почему</h2>
             <div class="features-grid">
                 <div class="feature-card">
                     <div class="feature-img">
