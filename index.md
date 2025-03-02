@@ -640,12 +640,12 @@ Join the league of successful internet providers and provide your clients with f
                         <h3>Профессиональная поддержка</h3>
                         <p>Наша служба поддержки доступна 24/7, чтобы решить любые технические вопросы и обеспечить бесперебойную работу вашего интернета.</p>
                     </div>
-                    --->
+                   
                 </div>
             </div>
         </div>
     </section>
-
+--->
     <section class="plans" id="plans">
         <div class="container">
             <h2 class="section-title">Выберите свой тариф</h2>
