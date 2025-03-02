@@ -577,8 +577,50 @@
                         <img src="/api/placeholder/400/200" alt="Высокая скорость" />
                     </div>
                     <div class="feature-content">
-                        <h3>Высокая скорость</h3>
-                        <p>Наша оптоволоконная сеть обеспечивает скорость до 1 Гбит/с, что позволяет мгновенно загружать файлы и смотреть контент в 4K без буферизации.</p>
+                        <h3>Why you need it</h3>
+                        <p>ImProvider is an incredibly versatile app. Using the ImProvider Android app, you can set up a time-controlled Wi-Fi hotspot using tickets. Also you can divide the internet channel between your clients whatever you need and at the same time protect your router and the user's devices. Whether you are providing internet access to clients who rely on your equipment, or are looking to improve access for customers in need of faster speeds, ImProvider has you covered.
+
+ImProvider Network Ports Management separates your clients from each other and from your network, ensuring maximum security and control. You can limit each client's internet speed access for greater control over your network and the ability to earn money or provide other incentives.
+
+For instance, in a hotel ImProvider can help you to create the hotspot and share your internet connection using ticket system. You can set up the hotspot in your hotel, hostel, guest house, cafe, restaurant, lounge, or any public space to increase comfort for your clients. Set the internet speed limit for the users and print tickets selecting connection time and quantity of devices. ImProvider can help you offer premium internet services to customers who need it. Whether it's for online studies, teaching, watching TV, or hosting an online conference, ImProvider ensures constant reliable access for all of your clients. 
+
+Gone are the days of relying on a system administrator to handle these tasks. ImProvider is the all-in-one solution that empowers you to take full control over your internet provision and network management. And, with our fully customizable app, we can tailor ImProvider exclusively to your equipment and requirements.
+
+Kindly note that ImProvider is absolutely secure. It doesn't send your information anywhere or open you router for connecting from outside. 
+
+An internet provider is a company that provides clients with access to the internet in exchange for payment. Providers purchase access from first-level operators (Tier-1) and resell it to another providers. Local provider sells it to end-users, offering internet services as a service rather than a product.
+
+As a provider, you can sell access to your internet channel multiple times, typically up to 5 times the width of the channel. For instance, if you have a 100-megabit internet channel, you can sell access to five clients at 50 megabits and ten clients at 10 megabits, making it a viable project. With competitive pricing, you can offer a lower rate than your provider, earning profits while providing high-speed internet to your clients. It's crucial to ensure that no single client uses more than half of your channel's capacity to avoid bandwidth issues for other users.
+
+Join the league of successful internet providers and provide your clients with fast, reliable internet access.
+Why using MikroTik?
+
+MikroTik is a leading provider of networking equipment that offers a range of top-quality products that are highly reliable and efficient. Whether you are an individual or a business owner, MikroTik has a networking solution that meets your needs.
+
+MikroTik products are built using high-quality components that are designed to last, providing you with a robust and reliable networking solution. Its routers, switches, and other networking equipment offer exceptional performance and security features, ensuring that your network remains protected at all times.
+
+MikroTik also offers a range of accessories and add-ons that can enhance the performance and functionality of your network. From high-gain antennas to LTE modems and power supplies, MikroTik has everything you need to build and maintain a high-speed, reliable network.
+
+In conclusion, MikroTik is a trusted and reputable brand that offers high-quality, user-friendly networking equipment. Its range of products and accessories provides a complete networking solution for businesses and individuals alike. 
+
+You can find the nearest dealer here: https://mikrotik.com/buy
+What equipment can you use?
+hAP ac³
+hAP ax³, hAP ac³, hAP ac², hAP ax² - the most powerful 5-port routers in hAP series
+RB2011UiAS-2HnD-IN
+10-port Router RB2011UiAS-2HnD-IN
+Chateau 5G ax
+LTE/5G Routers CHATEAU series or other 5-port LTE MikroTik routers
+CRS125-24G-1S-2HnD-IN
+24-port Router CRS125-24G-1S-2HnD-IN
+
+You can use almost any MikroTik wireless router with RouterOS. 
+
+Select your router depending on the quantity of ports and Wi-Fi signal strength. Don't forget that first Ethernet port (ETH1) is for incoming Internet cable. 
+Examples of networks
+manual
+
+8-port Router L009UiGS-2HaxD-IN </p>
                     </div>
                 </div>
                 <!---
