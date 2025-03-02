@@ -592,7 +592,7 @@ Kindly note that ImProvider is absolutely secure. It doesn't send your informati
 
 
                     </div>
-
+ </section>
 
  <section class="features" id="features">
         <div class="container">
@@ -615,7 +615,7 @@ Join the league of successful internet providers and provide your clients with f
 
                     </div>
 
-
+ </section>
                 
                 <!---
                 <div class="feature-card">
