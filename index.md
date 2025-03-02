@@ -622,7 +622,7 @@ manual
 
 8-port Router L009UiGS-2HaxD-IN </p>
                     </div>
-                </div>
+                
                 <!---
                 <div class="feature-card">
                     <div class="feature-img">
