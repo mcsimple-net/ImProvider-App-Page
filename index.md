@@ -570,14 +570,16 @@
 
     <section class="features" id="features">
         <div class="container">
-            <h2 class="section-title">Почему</h2>
+            <h2 class="section-title">Why you need it</h2>
             <div class="features-grid">
                 <div class="feature-card">
+                <!---
                     <div class="feature-img">
                         <img src="/api/placeholder/400/200" alt="Высокая скорость" />
                     </div>
+                    --->
                     <div class="feature-content">
-                        <h3>Why you need it</h3>
+                        
                         <p>ImProvider is an incredibly versatile app. Using the ImProvider Android app, you can set up a time-controlled Wi-Fi hotspot using tickets. Also you can divide the internet channel between your clients whatever you need and at the same time protect your router and the user's devices. Whether you are providing internet access to clients who rely on your equipment, or are looking to improve access for customers in need of faster speeds, ImProvider has you covered.
 
 ImProvider Network Ports Management separates your clients from each other and from your network, ensuring maximum security and control. You can limit each client's internet speed access for greater control over your network and the ability to earn money or provide other incentives.
@@ -594,14 +596,16 @@ Kindly note that ImProvider is absolutely secure. It doesn't send your informati
 
  <section class="features" id="features">
         <div class="container">
-            <h2 class="section-title">Почему</h2>
+            <h2 class="section-title">How Internet providers do business</h2>
             <div class="features-grid">
                 <div class="feature-card">
+                    <!---
                     <div class="feature-img">
                         <img src="/api/placeholder/400/200" alt="Высокая скорость" />
                     </div>
+                    --->
                     <div class="feature-content">
-                        <h3>How Internet providers do business</h3>
+                        <h3></h3>
                         <p>An internet provider is a company that provides clients with access to the internet in exchange for payment. Providers purchase access from first-level operators (Tier-1) and resell it to another providers. Local provider sells it to end-users, offering internet services as a service rather than a product.
 
 As a provider, you can sell access to your internet channel multiple times, typically up to 5 times the width of the channel. For instance, if you have a 100-megabit internet channel, you can sell access to five clients at 50 megabits and ten clients at 10 megabits, making it a viable project. With competitive pricing, you can offer a lower rate than your provider, earning profits while providing high-speed internet to your clients. It's crucial to ensure that no single client uses more than half of your channel's capacity to avoid bandwidth issues for other users.
